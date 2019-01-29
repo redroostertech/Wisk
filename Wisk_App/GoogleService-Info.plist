@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>218903807590-tsgppv9lhese364sp2k2qcf8mgs3u6sh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.218903807590-tsgppv9lhese364sp2k2qcf8mgs3u6sh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANFU96uOmEMAZesuc2SV2Oxd9iCp4uicY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218903807590</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>redroostertechnologiesinc.mwestbrooksjr.Wisk-App</string>
+	<key>PROJECT_ID</key>
+	<string>project-4104212333249588405</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-4104212333249588405.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218903807590:ios:a54f57b602a3742c</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-4104212333249588405.firebaseio.com</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>fb972613346190033</string>
+            </array>
+        </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>972613346190033</string>
+    <key>FacebookDisplayName</key>
+    <string>Wisk</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>fbapi</string>
+        <string>fb-messenger-api</string>
+        <string>fbauth2</string>
+        <string>fbshareextension</string>
+    </array>
+</dict>
+</plist>
